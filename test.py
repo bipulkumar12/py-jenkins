@@ -1,1 +1,1 @@
-print("wot's up buddy v6")
+pnt("wot's up buddy v6")
